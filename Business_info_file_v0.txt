@@ -1,0 +1,11 @@
+Number of bussiness analyzed
+Name of the Business
+Market Value
+Total assets
+Liabilities
+Has been getting earnings during the last 10 years in a row? (1 (1 if it is true) or 0 (if it is false))
+Has been paying dividends during the last 20 years in a row? (1 (1 if it is true) or 0 (if it is false))
+Current earnings per share
+Earnings per share ten years ago
+Price of the share
+Book value per share
